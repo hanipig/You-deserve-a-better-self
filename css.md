@@ -326,10 +326,10 @@ ___
 #### 单行文本
 ```css
 .ellipsis {
-width: 500px;
-overflow: hidden;
-text-overflow: ellipsis;
-white-space: nowrap;
+  width: 500px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 ```
 
